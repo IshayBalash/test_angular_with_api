@@ -1,0 +1,15 @@
+<button (click)="getAllProducts()">get all prosucts</button>
+
+<div *ngIf="(ShowProductList)">
+    
+    <h1 *ngFor="let i of productList.productsArry">{{i.ProductName}},{{i.Price}}</h1>    
+</div>
+
+<hr>
+<hr>
+
+<button (click)="getSpesificPeoduct('Kola')">get spesific prosucts</button>
+    <h1>{{productList.singleProduct?.ProductName}}</h1>
+
+<button (click)="DeleteProduct('Sprit')">delete spesific prosucts</button>
+    <h1>{{ResponsMassage}}</h1>

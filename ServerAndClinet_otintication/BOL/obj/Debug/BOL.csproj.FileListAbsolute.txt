@@ -1,0 +1,6 @@
+C:\Users\Yishai\Desktop\servertest\ServerAndClinet_otintication\Server\BOL\bin\Debug\BOL.dll
+C:\Users\Yishai\Desktop\servertest\ServerAndClinet_otintication\Server\BOL\bin\Debug\BOL.pdb
+C:\Users\Yishai\Desktop\servertest\ServerAndClinet_otintication\Server\BOL\obj\Debug\BOL.csprojResolveAssemblyReference.cache
+C:\Users\Yishai\Desktop\servertest\ServerAndClinet_otintication\Server\BOL\obj\Debug\BOL.csproj.CoreCompileInputs.cache
+C:\Users\Yishai\Desktop\servertest\ServerAndClinet_otintication\Server\BOL\obj\Debug\BOL.dll
+C:\Users\Yishai\Desktop\servertest\ServerAndClinet_otintication\Server\BOL\obj\Debug\BOL.pdb
